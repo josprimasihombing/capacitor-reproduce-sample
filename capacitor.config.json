@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "capacitor-reproduce-sample",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
